@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4XRTf8K4iiudLpVZT4B1gS4Xe/JsDZ9CP7hM1pkUV+6QVn4KU8AHVvHXkjDrHCpBVRBNiWA+kiXvsYlGqz9kQ==",
+  "success": true,
+  "projectFilePath": "/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/Encrita.csproj",
+  "expectedPackageFiles": [
+    "/home/greenchild/.nuget/packages/discord.net/3.10.0/discord.net.3.10.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/discord.net.commands/3.10.0/discord.net.commands.3.10.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/discord.net.core/3.10.0/discord.net.core.3.10.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/discord.net.interactions/3.10.0/discord.net.interactions.3.10.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/discord.net.rest/3.10.0/discord.net.rest.3.10.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/discord.net.webhook/3.10.0/discord.net.webhook.3.10.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/discord.net.websocket/3.10.0/discord.net.websocket.3.10.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/nstack.core/1.0.7/nstack.core.1.0.7.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/system.codedom/7.0.0/system.codedom.7.0.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/system.interactive.async/5.0.0/system.interactive.async.5.0.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/system.linq.async/5.0.0/system.linq.async.5.0.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/system.management/7.0.0/system.management.7.0.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/greenchild/.nuget/packages/terminal.gui/1.10.1/terminal.gui.1.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
