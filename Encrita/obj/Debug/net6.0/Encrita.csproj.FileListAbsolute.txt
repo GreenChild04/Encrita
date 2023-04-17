@@ -23,3 +23,14 @@
 /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/obj/Debug/net6.0/Encrita.pdb
 /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/obj/Debug/net6.0/Encrita.genruntimeconfig.cache
 /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/obj/Debug/net6.0/ref/Encrita.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Discord.Net.Commands.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Discord.Net.Core.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Discord.Net.Interactions.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Discord.Net.Rest.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Discord.Net.Webhook.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Discord.Net.WebSocket.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/Newtonsoft.Json.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/System.Interactive.Async.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/System.Linq.Async.dll
+/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/bin/Debug/net6.0/System.Reactive.dll
