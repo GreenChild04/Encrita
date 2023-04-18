@@ -1401,3 +1401,208 @@ Encrita Booting...
 (15:38:12.440) [Encrita] Asking for invite passcode...
 (15:39:13.351) [Encrita] Minted first invite for this server
 (15:39:13.351) [Encrita] Exiting boot...
+(15:49:44.325) [(===)] 
+
+(15:49:44.326) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(15:49:44.326) [Encrita] Encrita Booting...
+(15:49:44.326) [Encrita] Error: No system file found! (encrita.eib)
+(15:49:44.326) [Encrita] Installing and configering Encrita...
+(15:49:44.327) [Encrita] Error: No invite file found! (invite.eib)
+(15:50:19.435) [User] User chose to quit application instead of hosting a server
+(15:50:22.690) [(===)] 
+
+(15:50:22.691) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(15:50:22.691) [Encrita] Encrita Booting...
+(15:50:22.691) [Encrita] Error: No system file found! (encrita.eib)
+(15:50:22.691) [Encrita] Installing and configering Encrita...
+(15:50:22.691) [Encrita] Error: No invite file found! (invite.eib)
+(15:50:28.853) [User] User chose to host their own server
+(15:50:28.853) [Encrita] Fetching guide on hosting server...
+(15:50:43.825) [Encrita] Hosting Setup Finished
+(15:50:43.826) [Encrita] Asking for invite passcode...
+(15:51:24.125) [Encrita] Successfully Booted!
+(18:42:39.947) [(===)] 
+
+(18:42:39.948) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(18:42:39.948) [Encrita] Encrita Booting...
+(18:42:39.949) [Encrita] Error: No system file found! (encrita.eib)
+(18:42:39.949) [Encrita] Installing and configering Encrita...
+(18:42:39.949) [Encrita] Error: No invite file found! (invite.eib)
+(18:42:49.645) [Encrita] Successfully Booted!
+(18:55:17.163) [(===)] 
+
+(18:55:17.164) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(18:55:17.165) [Encrita] Encrita Booting...
+(18:55:17.165) [Encrita] Error: No system file found! (encrita.eib)
+(18:55:17.165) [Encrita] Installing and configering Encrita...
+(18:55:17.165) [Encrita] Error: No invite file found! (invite.eib)
+(18:55:19.315) [User] User chose to host their own server
+(18:55:19.316) [Encrita] Fetching guide on hosting server...
+(18:56:26.765) [(===)] 
+
+(18:56:26.766) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(18:56:26.766) [Encrita] Encrita Booting...
+(18:56:26.766) [Encrita] Error: No system file found! (encrita.eib)
+(18:56:26.766) [Encrita] Installing and configering Encrita...
+(18:56:26.767) [Encrita] Error: No invite file found! (invite.eib)
+(20:31:49.369) [(===)] 
+
+(20:31:49.370) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:31:49.370) [Encrita] Encrita Booting...
+(20:31:49.370) [Encrita] Error: No system file found! (encrita.eib)
+(20:31:49.370) [Encrita] Installing and configering Encrita...
+(20:31:49.371) [Encrita] Error: No invite file found! (invite.eib)
+(20:32:04.302) [User] User chose to host their own server
+(20:32:04.303) [Encrita] Fetching guide on hosting server...
+(20:32:28.948) [Encrita] Successfully Booted!
+(20:36:06.871) [(===)] 
+
+(20:36:06.871) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:36:06.872) [Encrita] Encrita Booting...
+(20:36:06.872) [Encrita] Error: No system file found! (encrita.eib)
+(20:36:06.872) [Encrita] Installing and configering Encrita...
+(20:36:06.873) [Encrita] Error: No invite file found! (invite.eib)
+(20:36:53.452) [Encrita] Successfully Booted!
+(20:36:56.042) [(===)] 
+
+(20:36:56.043) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:36:56.051) [Encrita] Encrita Booting...
+(20:36:56.051) [Encrita] An unhandled c# exception has occured!
+(20:36:56.074) [Encrita] Exception: (example error) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:37:56.205) [(===)] 
+
+(20:37:56.206) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:37:56.206) [Encrita] Encrita Booting...
+(20:37:56.206) [Encrita] An unhandled c# exception has occured!
+(20:37:56.223) [Encrita] Exception: (example error) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:39:26.069) [(===)] 
+
+(20:39:26.069) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:39:26.069) [Encrita] Encrita Booting...
+(20:39:26.070) [Encrita] An unhandled c# exception has occured!
+(20:39:26.087) [Encrita] Exception: (example error) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:40:01.336) [(===)] 
+
+(20:40:01.337) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:40:01.337) [Encrita] Encrita Booting...
+(20:40:01.337) [Encrita] An unhandled c# exception has occured!
+(20:40:01.354) [Encrita] Exception: (example error) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:52:54.682) [(===)] 
+
+(20:52:54.690) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:52:54.690) [Encrita] Encrita Booting...
+(20:52:54.691) [Encrita] An unhandled c# exception has occured!
+(20:52:54.703) [Encrita] Exception: (System.Exception: example error
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:53:19.398) [(===)] 
+
+(20:53:19.399) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:53:19.399) [Encrita] Encrita Booting...
+(20:53:19.399) [Encrita] An unhandled c# exception has occured!
+(20:53:19.411) [Encrita] Exception: (System.Exception: example error
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:53:37.051) [(===)] 
+
+(20:53:37.052) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:53:37.052) [Encrita] Encrita Booting...
+(20:53:37.052) [Encrita] An unhandled c# exception has occured!
+(20:53:37.064) [Encrita] Exception: (System.Exception: example error
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:53:48.963) [(===)] 
+
+(20:53:48.963) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:53:48.963) [Encrita] Encrita Booting...
+(20:53:48.964) [Encrita] An unhandled c# exception has occured!
+(20:53:48.975) [Encrita] Exception: (System.Exception: example error
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:54:06.021) [(===)] 
+
+(20:54:06.022) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:54:06.022) [Encrita] Encrita Booting...
+(20:54:06.022) [Encrita] An unhandled c# exception has occured!
+(20:54:06.040) [Encrita] Exception: (System.Exception: example error
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:54:57.812) [(===)] 
+
+(20:54:57.812) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:54:57.813) [Encrita] Encrita Booting...
+(20:54:57.813) [Encrita] An unhandled c# exception has occured!
+(20:54:57.825) [Encrita] Exception: (System.Exception: example error
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(20:56:53.823) [(===)] 
+
+(20:56:53.824) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(20:56:53.824) [Encrita] Encrita Booting...
+(20:56:53.824) [Encrita] An unhandled c# exception has occured!
+(20:56:53.835) [Encrita] Exception: (example error) Source: (Encrita) Stack Trace:    at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(21:02:58.262) [(===)] 
+
+(21:02:58.263) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(21:02:58.263) [Encrita] Encrita Booting...
+(21:02:58.263) [Encrita] An unhandled c# exception has occured!
+(21:02:58.275) [Encrita] [Unhandled Exception] System.Exception: (example error) Stack Trace:
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(21:04:19.817) [
+
+] (===)
+(21:04:19.818) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(21:04:19.818) [Encrita] Encrita Booting...
+(21:04:19.819) [Encrita] An unhandled c# exception has occured!
+(21:04:19.830) [Encrita] [Unhandled Exception] System.Exception: (example error) Stack Trace:
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(21:05:09.451) [(===)] 
+
+(===)
+(21:05:09.451) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(21:05:09.452) [Encrita] Encrita Booting...
+(21:05:09.452) [Encrita] An unhandled c# exception has occured!
+(21:05:09.463) [Encrita] [Unhandled Exception] System.Exception: (example error) Stack Trace:
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(21:14:09.601) [[(===)]] 
+
+(===)
+(21:14:09.602) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(21:14:09.602) [Encrita] Encrita Booting...
+(21:14:09.603) [Encrita] An unhandled c# exception has occured!
+(21:14:09.615) [Encrita] [Unhandled Exception] System.Exception: (example error) Stack Trace:
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(21:14:21.414) [[(===)]] 
+
+(===)
+(21:14:21.414) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(21:14:21.414) [Encrita] Encrita Booting...
+(21:14:21.415) [Encrita] An unhandled c# exception has occured!
+(21:14:21.426) [Encrita] [Unhandled Exception] System.Exception: (example error) Stack Trace:
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(21:14:54.168) [[(===)]] 
+
+(===)
+(21:14:54.169) [Encrita] Booting from directory (/media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita)
+(21:14:54.169) [Encrita] Encrita Booting...
+(21:14:54.169) [Encrita] An unhandled c# exception has occured!
+(21:14:54.180) [Encrita] [Unhandled Exception] System.Exception: (example error) Stack Trace:
+   at back.Boot.boot(Boolean isPrivate) in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 22
+   at back.Boot.boot() in /media/greenchild/Gata/Ethan/Home/Github/Encrita/Encrita/back/Boot.cs:line 8
+(21:17:25.407) [Encrita] Exiting Encrita...
