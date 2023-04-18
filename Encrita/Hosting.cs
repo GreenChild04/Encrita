@@ -55,6 +55,7 @@ namespace front
                 X = Pos.Center(),
                 ColorScheme = Stone.bold,
             }; Label url = new Label("url: (https://www.writebots.com/discord-bot-token/) hold ctrl and click it") {
+                X = Pos.Center(),
                 Y = 2,
                 ColorScheme = new ColorScheme() {Normal = Application.Driver.MakeAttribute(Terminal.Gui.Color.BrightBlue, Terminal.Gui.Color.Black)},
             }; Label step1 = new Label("1. Follow this guide above (the url) and paste your discord bot token below") {
@@ -66,15 +67,14 @@ namespace front
                 ColorScheme = Colors.Error,
             }; Label step2 = new Label("2. Once you've pasted the token, create a server on discord and invite the bot") {
                 Y = 8,
-            }; Label step3 = new Label("3. You're now hosting your own server! Now hit the 'Finish' button below to exit and create an invite") {
+            }; Label step3 = new Label("3. Now hit the 'Finish' button below to exit & create an invite to your server") {
                 Y = 9,
             }; Button done = new Button("Finish & Create Invite") {
                 X = Pos.Center(),
                 Y = 11,
-            }; done.Clicked += () => UiUtils.confirm("Finish & Create Invite?", "Are you sure that you want to finish and create the first invite (you can't undo this)?", () => {
+            }; done.Clicked += () => UiUtils.confirm("Finish & Create Invite?", "Are you sure that you want to exit the program and create an invite to your server (you can't undo this)?", () => {
                 Stone.log("Hosting Setup Finished");
                 string token = field.Text.ToString();
-                File.WriteAllText("token.eio", token); // Change this later to something secure
 
                 // Take in passcode
                 Stone.log("Asking for invite passcode...");
@@ -85,7 +85,7 @@ namespace front
                     Height = 10,
                     ColorScheme = Stone.windowColour,
                 }; TextView text = new TextView() {
-                    Text = "To secure your invite, please enter below and memorise a 4 digit passcode that will be required to accept this invite to your server.",
+                    Text = "To secure and create your invite, please enter below and memorise a 4 digit passcode that will be required to accept this invite to your server.",
                     X = Pos.Center(),
                     Width = Dim.Fill() - 2,
                     Height = 3,
