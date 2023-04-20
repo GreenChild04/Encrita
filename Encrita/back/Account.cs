@@ -5,6 +5,7 @@ using encrita;
 namespace back
 {
     public class Account {
+        public string username;
         public byte[] publicKey;
         private byte[] privatekey;
         private string discordtoken;
@@ -17,6 +18,8 @@ namespace back
             verifyPassword(longTerm.passhash, password, () => throw new Exception("[Account (undesired)] Error: tried to login to account with wrong password (there was no previous check)"));
 
             // Important
+            this.username = longTerm.username;
+            Stone.log("Loaded username", "Account");
             this.publicKey = longTerm.publicKey;
             Stone.log("Loaded public key", "Account");
             this.privatekey = Symmetric.decrypt(longTerm.privateKey, password);
@@ -35,13 +38,14 @@ namespace back
             if (!PassHashing.hash(password, desired[1])[0].SequenceEqual(desired[0])) except();
         }
 
-        public static void init(string filename, string password, string rawDiscordToken) {
+        public static void init(string filename, string username, string password, string rawDiscordToken) {
             Stone.log("Initialising account...");
             byte[][] passhash = PassHashing.hash(password);
             Asymmetric.generateKeys(out byte[] publicKey, out byte[] rawPrivateKey);
             byte[] privateKey = Symmetric.encrypt(rawPrivateKey, password);
             byte[] discordToken = Symmetric.encrypt(System.Text.Encoding.UTF8.GetBytes(rawDiscordToken), password);
             LongTerm longTerm = new LongTerm {
+                username = username,
                 passhash = passhash,
                 publicKey = publicKey,
                 privateKey = privateKey,
@@ -51,6 +55,7 @@ namespace back
         }
 
         private struct LongTerm {
+            public string username;
             public byte[][] passhash;
             public byte[] publicKey;
             public byte[] privateKey;

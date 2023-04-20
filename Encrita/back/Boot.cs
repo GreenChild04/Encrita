@@ -19,7 +19,6 @@ namespace back
             Stone.log("\n\n(===)", "[(===)]");
             Stone.log($"Booting from directory ({Directory.GetCurrentDirectory()})");
             Stone.log("Encrita Booting...");
-            throw new Exception("example error");
 
             // Pre-boot checks
             if (!File.Exists(Stone.systemFile)) {
